@@ -1,0 +1,1 @@
+﻿CREATE TYPE [dbo].[MessageIdsType] AS TABLE ( Id INT NOT NULL );
